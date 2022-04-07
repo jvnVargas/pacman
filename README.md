@@ -1,0 +1,2 @@
+# pacman
+definição de constantes
